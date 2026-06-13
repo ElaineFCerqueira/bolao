@@ -504,8 +504,8 @@ export default function App() {
       {/* FOOTER */}
       <footer className="mt-12 border-t border-slate-900 bg-slate-950 py-8 px-4 text-center text-xs text-slate-500">
         <div className="max-w-4xl mx-auto space-y-2">
-          <p>Bolão de Amigos Oficial • Jogo amistoso em Outubro de 2026</p>
-          <p className="text-slate-600">Desenvolvido com tecnologia de sincronização de banco de dados em tempo real.</p>
+          <p>Bolão da Galera!!! se joga! • </p>
+          <p className="text-slate-600">Desenvolvido por Elaine Cerqueira.</p>
         </div>
       </footer>
 
